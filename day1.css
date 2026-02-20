@@ -1,5 +1,5 @@
-h1{
-    color:yellow;
+/*h1{
+    color:black;
 }
 h2{
     color: blue;
@@ -11,8 +11,11 @@ button{
     color:blueviolet;
 }
 body{
-    background-color: aqua;
+    background-color:#ff0000;
 }
 button{
-    background-color:brown ;
+    background-color: green;
+}*/
+*{
+    color: pink;
 }
