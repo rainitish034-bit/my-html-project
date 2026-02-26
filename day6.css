@@ -7,3 +7,12 @@ h1{
 h1{
     text-align: right;
 }
+body{
+    background-color: brown;
+}
+h1{
+    color: blue;
+}
+h1{
+    text-align: center;
+}
