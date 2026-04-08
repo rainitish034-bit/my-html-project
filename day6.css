@@ -1,21 +1,23 @@
 p{
     text-align: center;
 }
+/*
 h1{
     text-align: center;
 }
 h1{
     text-align: right;
-}
+}*/
 body{
     background-color: brown;
 }
+/*
 h1{
     color: black;
 }
 h1{
     text-align: center;
-}
+}*/
 button{
     text-align: end;
 }
@@ -27,4 +29,15 @@ button{
 }
 input{
     background-color: black;
+}
+/*
+h1{
+    text-align:center;
+    text-decoration: underline;
+}*/
+a{
+    text-decoration: none;
+}
+#h1{
+    font-weight: normal;
 }
